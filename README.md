@@ -2,6 +2,8 @@
 
 Este es el código fuente del Currículum Vitae de **José Carlos Orozco Medina**, un desarrollador frontend con experiencia en desarrollo web utilizando tecnologías como React.js, HTML, CSS, y más. El CV está construido usando HTML semántico y CSS, y es completamente responsivo, lo que significa que se adapta a diferentes tamaños de pantalla, desde dispositivos móviles hasta pantallas de escritorio.
 
+Este proyecto sigue las directrices del siguiente roadmap: [Single Page CV Roadmap](https://roadmap.sh/projects/single-page-cv).
+
 ## Estructura del Proyecto
 
 El proyecto está compuesto por los siguientes archivos:
